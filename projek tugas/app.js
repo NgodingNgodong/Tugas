@@ -7,11 +7,11 @@ new Vue({
             tanggal: ''
         },
         items: [
-            { id: 'ID-1', nama: 'Jaket', harga: 150000 },
-            { id: 'ID-2', nama: 'Baju', harga: 80000 },
-            { id: 'ID-3', nama: 'Topi', harga: 45000 },
-            { id: 'ID-4', nama: 'Celana', harga: 100000 },
-            { id: 'ID-5', nama: 'Vynil', harga: 750000 }
+            { id: 'ID-1', nama: 'Mie Ayam', harga: 15000 },
+            { id: 'ID-2', nama: 'Mie Bakso', harga: 8000 },
+            { id: 'ID-3', nama: 'Mie Goreng', harga: 5000 },
+            { id: 'ID-4', nama: 'Mie Kuah', harga: 11000 },
+            { id: 'ID-5', nama: 'Mie Rendang Bakso', harga: 7500 }
         ],
         newProduct: {
             kodeBarang: '',
